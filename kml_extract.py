@@ -110,5 +110,5 @@ def main():
         kml.write('{}\n'.format(line))
 
 
-if __name__=="__name__":
-  main()
+if __name__=='__main__':
+    main()
